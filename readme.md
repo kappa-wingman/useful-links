@@ -19,7 +19,7 @@ List of useful links, tools and resources
       - [Tester by Techincal SEO](https://technicalseo.com/tools/robots-txt/)
   - HTML
     - Validatior
-      - [W3C Markup Validation Service])https://validator.w3.org/) - An online tool
+      - [W3C Markup Validation Service](https://validator.w3.org/) - An online tool
       - [Written in Python](https://github.com/svenkreiss/html5validator) - Command line tool
   - Web servers performance, SEO and security (online tools)
     - Scanning
