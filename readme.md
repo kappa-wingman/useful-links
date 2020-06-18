@@ -1,11 +1,11 @@
 # useful-links
 List of useful links, tools and resources
 - Web development
-  -  Web servers performance, SEO and security (online tools)
+  -  Website performance, SEO and security (online tools)
      - [Techinical SEO](https://technicalseo.com/tools) - This site has several tools for SEO
      - [Freeformatter](https://www.freeformatter.com/) - This site has formatters, validators, encoders, decoders minifiers and converters
-     - [Uptrends](https://www.uptrends.com/tools)
-     - [Pingdom](https://tools.pingdom.com)
+     - [Uptrends](https://www.uptrends.com/tools) - Website, CDN speed test and other tools
+     - [Pingdom](https://tools.pingdom.com) - Website speed test
   - JSON-LD
     - Verification
       - [Visualisation of strucuted data by Classy Schema](https://classyschema.org/Visualisation)
