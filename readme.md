@@ -1,5 +1,6 @@
 # useful-links
-List of useful links, tools and resources
+Curated list of useful links, tools and resources
+
 - Web development
   -  Website performance, SEO and security (online tools)
      - [Techinical SEO](https://technicalseo.com/tools) - This site has several tools for SEO
