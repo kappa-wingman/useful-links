@@ -21,6 +21,8 @@ Curated list of useful links, tools and resources
       - [By Google](https://www.google.com/webmasters/tools/robots-testing-tool)
       - [Tester by Techincal SEO](https://technicalseo.com/tools/robots-txt/)
   - HTML
+    - Meta tags
+      - [By Moz](https://moz.com/learn/seo/robots-meta-directives)
     - Validatior
       - [W3C Markup Validation Service](https://validator.w3.org/) - An online tool
       - [html5validator, written in Python](https://github.com/svenkreiss/html5validator) - Command line tool
