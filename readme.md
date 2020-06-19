@@ -9,8 +9,8 @@ Curated list of useful links, tools and resources
      - [Pingdom](https://tools.pingdom.com) - Website speed test
   - JSON-LD
     - Verification
-      - [Visualisation of strucuted data by Classy Schema](https://classyschema.org/Visualisation)
-      - [Structued Data Testing Tool by Google](https://search.google.com/structured-data/testing-tool/)
+      - [Visualisation of strucuted data by Classy Schema](https://classyschema.org/Visualisation) **- Recommended**
+      - [Structued Data Testing Tool by Google](https://search.google.com/structured-data/testing-tool/) **- Recommended**
       - [Structured Data Linter](http://linter.structured-data.org)
     - Generator
       - [By Technical SEO](https://technicalseo.com/tools/schema-markup-generator/)
