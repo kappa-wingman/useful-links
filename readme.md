@@ -20,6 +20,8 @@ Curated list of useful links, tools and resources
     - Validator
       - [By Google](https://www.google.com/webmasters/tools/robots-testing-tool)
       - [Tester by Techincal SEO](https://technicalseo.com/tools/robots-txt/)
+    - Rich Snippets Preview
+      - [By Google, in beta](https://search.google.com/test/rich-results)
   - HTML
     - Meta tags
       - [By Moz](https://moz.com/learn/seo/robots-meta-directives)
