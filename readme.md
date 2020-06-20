@@ -34,5 +34,6 @@ Curated list of useful links, tools and resources
       - [Lighthouse Metrics](https://lighthouse-metrics.com) - Website that performs Goolge Lighthouse checking with version 6.0 and 5.6
       - [Google Pagespeed](https://developers.google.com/speed/pagespeed/insights/)
       - [Mobile friendly checking by Google](https://search.google.com/test/mobile-friendly)
-    - Goolge
+    - Google, some tools are not visible in the search console
       - [Remove outdated content](https://www.google.com/webmasters/tools/removals)
+      - [URL parameters](https://www.google.com/webmasters/tools/crawl-url-parameters)
