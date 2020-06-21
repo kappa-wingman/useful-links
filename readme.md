@@ -20,14 +20,14 @@ Curated list of useful links, tools and resources
     - Validator
       - [By Google](https://www.google.com/webmasters/tools/robots-testing-tool)
       - [Tester by Techincal SEO](https://technicalseo.com/tools/robots-txt/)
-    - Rich Snippets Preview
+  - Rich Snippets Preview
       - [By Google, in beta](https://search.google.com/test/rich-results)
-    - Scanning
+  - Scanning
       - [Dareboost](https://www.dareboost.com) - Provides recommendation
       - [Lighthouse Metrics](https://lighthouse-metrics.com) - Website that performs Goolge Lighthouse checking with version 6.0 and 5.6
       - [Google Pagespeed](https://developers.google.com/speed/pagespeed/insights/)
       - [Mobile friendly checking by Google](https://search.google.com/test/mobile-friendly)
-    - Google, some tools are usable but not displayed in the search console by default
+  - Google, some tools are usable but not displayed in the search console by default
       - [Remove outdated content](https://www.google.com/webmasters/tools/removals)
       - [URL parameters](https://www.google.com/webmasters/tools/crawl-url-parameters)
   - HTML
