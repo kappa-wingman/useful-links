@@ -22,12 +22,6 @@ Curated list of useful links, tools and resources
       - [Tester by Techincal SEO](https://technicalseo.com/tools/robots-txt/)
     - Rich Snippets Preview
       - [By Google, in beta](https://search.google.com/test/rich-results)
-  - HTML
-    - Meta tags
-      - [By Moz](https://moz.com/learn/seo/robots-meta-directives)
-    - Validatior
-      - [W3C Markup Validation Service](https://validator.w3.org/) - An online tool
-      - [html5validator, written in Python](https://github.com/svenkreiss/html5validator) - Command line tool
     - Scanning
       - [Dareboost](https://www.dareboost.com) - Provides recommendation
       - [Lighthouse Metrics](https://lighthouse-metrics.com) - Website that performs Goolge Lighthouse checking with version 6.0 and 5.6
@@ -36,4 +30,10 @@ Curated list of useful links, tools and resources
     - Google, some tools are usable but not displayed in the search console by default
       - [Remove outdated content](https://www.google.com/webmasters/tools/removals)
       - [URL parameters](https://www.google.com/webmasters/tools/crawl-url-parameters)
+  - HTML
+    - Meta tags
+      - [By Moz](https://moz.com/learn/seo/robots-meta-directives)
+    - Validatior
+      - [W3C Markup Validation Service](https://validator.w3.org/) - An online tool
+      - [html5validator, written in Python](https://github.com/svenkreiss/html5validator) - Command line tool
       
