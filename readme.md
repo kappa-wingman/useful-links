@@ -28,7 +28,6 @@ Curated list of useful links, tools and resources
     - Validatior
       - [W3C Markup Validation Service](https://validator.w3.org/) - An online tool
       - [html5validator, written in Python](https://github.com/svenkreiss/html5validator) - Command line tool
-  - Web servers performance, SEO and security (online tools)
     - Scanning
       - [Dareboost](https://www.dareboost.com) - Provides recommendation
       - [Lighthouse Metrics](https://lighthouse-metrics.com) - Website that performs Goolge Lighthouse checking with version 6.0 and 5.6
