@@ -28,6 +28,7 @@ Curated list of useful links, tools and resources
   - Rich Snippets Preview
       - [By Google, in beta](https://search.google.com/test/rich-results)
   - Google, some tools are usable but not displayed in the search console by default
+      - [Search Console](https://search.google.com/u/0/search-console/welcome)
       - [Remove outdated content](https://www.google.com/webmasters/tools/removals)
       - [URL parameters](https://www.google.com/webmasters/tools/crawl-url-parameters)
   - HTML
