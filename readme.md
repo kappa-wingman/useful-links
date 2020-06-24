@@ -13,6 +13,7 @@ Curated list of useful links, tools and resources
       - [Google Pagespeed](https://developers.google.com/speed/pagespeed/insights/)
       - [Mobile friendly checking by Google](https://search.google.com/test/mobile-friendly)
       - Scanning HTTP headers
+        - [Security Headers Sponsored by Report URI](https://securityheaders.com/)
         - [Redbot](https://redbot.org)
   - JSON-LD
     - Verification
