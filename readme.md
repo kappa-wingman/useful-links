@@ -5,6 +5,7 @@ Curated list of useful links, tools and resources
   - Website performance, SEO and security (online tools)
     - [Techinical SEO](https://technicalseo.com/tools) - This site has several tools for SEO
     - [Freeformatter](https://www.freeformatter.com/) - This site has formatters, validators, encoders, decoders minifiers and converters
+    - [KeyCDN](https://tools.keycdn.com/) - Several tools provided, website speed test and other network tools
     - [Uptrends](https://www.uptrends.com/tools) - Website, CDN speed test and other tools
     - [Pingdom](https://tools.pingdom.com) - Website speed test
     - Scanning
