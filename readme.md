@@ -11,6 +11,7 @@ Curated list of useful links, tools and resources
     - Scanning
       - [Dareboost](https://www.dareboost.com) - Provides recommendation
       - [Nibbler](https://nibbler.silktide.com) - Provides recommendation, free version only scan maximum of five links automatically from your website
+      - [Immuniweb Community Free Security Tests](https://www.immuniweb.com/free/) - Free web/domain/SSL scan
       - [Lighthouse Metrics](https://lighthouse-metrics.com) - Website that performs Goolge Lighthouse checking with version 6.0 and 5.6
       - [Google Pagespeed](https://developers.google.com/speed/pagespeed/insights/)
       - [Mobile friendly checking by Google](https://search.google.com/test/mobile-friendly)
