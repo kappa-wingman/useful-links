@@ -18,6 +18,8 @@ Curated list of useful links, tools and resources
       - Scanning HTTP headers
         - [Security Headers Sponsored by Report URI](https://securityheaders.com/)
         - [Redbot](https://redbot.org)
+      - Cookies
+        - [Scan what cookies is used and give recommendation](https://webcookies.org/)
       - Find out what technology is used in a website
         - [Builtwith](https://builtwith.com/)
         - [W3techs](https://w3techs.com/sites)
