@@ -48,4 +48,6 @@ Curated list of useful links, tools and resources
     - Validatior
       - [W3C Markup Validation Service](https://validator.w3.org/) - An online tool
       - [html5validator, written in Python](https://github.com/svenkreiss/html5validator) - Command line tool
-      
+   - Front-end playground for testing code or demo
+     - [Codepen](https://codepen.io/)
+     - [JSFiddle](https://jsfiddle.net/)
