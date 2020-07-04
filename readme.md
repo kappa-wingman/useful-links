@@ -19,7 +19,7 @@ Curated list of useful links, tools and resources
         - [Security Headers Sponsored by Report URI](https://securityheaders.com/)
         - [Redbot](https://redbot.org)
       - Cookies
-        - [Scan what cookies is used and give recommendation](https://webcookies.org/)
+        - [Webcookies](https://webcookies.org/) - Scan what cookies are used and give recommendation
       - Find out what technology is used in a website
         - [Builtwith](https://builtwith.com/)
         - [W3techs](https://w3techs.com/sites)
@@ -27,7 +27,7 @@ Curated list of useful links, tools and resources
     - Verification
       - [Visualisation of strucuted data by Classy Schema](https://classyschema.org/Visualisation) **- Recommended**
       - [Structued Data Testing Tool by Google](https://search.google.com/structured-data/testing-tool/) **- Recommended**
-      - [Structured Data Linter](http://linter.structured-data.org)
+      - [Structured Data Linter](http://linter.structured-data.org) - HTTPS of this website does not work correctly
     - Generator
       - [By Technical SEO](https://technicalseo.com/tools/schema-markup-generator/)
       - [By Google](https://www.google.com/webmasters/markup-helper/)
