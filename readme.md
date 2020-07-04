@@ -36,6 +36,7 @@ Curated list of useful links, tools and resources
     - Validator
       - [By Google](https://www.google.com/webmasters/tools/robots-testing-tool)
       - [Tester by Techincal SEO](https://technicalseo.com/tools/robots-txt/)
+    - [Robots Meta Directives by Moz](https://moz.com/learn/seo/robots-meta-directives)
   - Rich Snippets Preview
       - [By Google, in beta](https://search.google.com/test/rich-results)
   - Google, some tools are usable but not displayed in the search console by default
@@ -43,11 +44,10 @@ Curated list of useful links, tools and resources
       - [Remove outdated content](https://www.google.com/webmasters/tools/removals)
       - [URL parameters](https://www.google.com/webmasters/tools/crawl-url-parameters)
   - HTML
-    - Meta tags
-      - [By Moz](https://moz.com/learn/seo/robots-meta-directives)
     - Validatior
       - [W3C Markup Validation Service](https://validator.w3.org/) - An online tool
       - [html5validator, written in Python](https://github.com/svenkreiss/html5validator) - Command line tool
+    - [Can I Use](https://caniuse.com/) - Browser support table for modern web technologies
    - Front-end playground for testing code or demo
      - [Codepen](https://codepen.io/)
      - [JSFiddle](https://jsfiddle.net/)
