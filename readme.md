@@ -44,7 +44,7 @@ Curated list of useful links, tools and resources
       - [Remove outdated content](https://www.google.com/webmasters/tools/removals)
       - [URL parameters](https://www.google.com/webmasters/tools/crawl-url-parameters)
   - HTML
-    - Validatior
+    - Validator
       - [W3C Markup Validation Service](https://validator.w3.org/) - An online tool
       - [html5validator, written in Python](https://github.com/svenkreiss/html5validator) - Command line tool
     - [Can I Use](https://caniuse.com/) - Browser support table for modern web technologies
