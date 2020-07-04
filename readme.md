@@ -27,7 +27,7 @@ Curated list of useful links, tools and resources
     - Verification
       - [Visualisation of strucuted data by Classy Schema](https://classyschema.org/Visualisation) **- Recommended**
       - [Structued Data Testing Tool by Google](https://search.google.com/structured-data/testing-tool/) **- Recommended**
-      - [Structured Data Linter](http://linter.structured-data.org) - HTTPS of this website does not work correctly
+      - [Structured Data Linter](http://linter.structured-data.org) - HTTPS of this website does not work correctly, browser giving out warning about hostname problem 
     - Generator
       - [By Technical SEO](https://technicalseo.com/tools/schema-markup-generator/)
       - [By Google](https://www.google.com/webmasters/markup-helper/)
