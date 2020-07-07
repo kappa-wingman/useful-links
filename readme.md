@@ -17,6 +17,7 @@ Curated list of useful links, tools and resources
       - [Mobile friendly checking by Google](https://search.google.com/test/mobile-friendly)
       - Scanning HTTP headers
         - [Security Headers Sponsored by Report URI](https://securityheaders.com/)
+        - [Analyse CSP by report-uri](https://report-uri.com/home/analyse)
         - [Redbot](https://redbot.org)
       - Cookies
         - [Webcookies](https://webcookies.org/) - Scan what cookies are used and give recommendation
@@ -32,13 +33,13 @@ Curated list of useful links, tools and resources
       - [By Technical SEO](https://technicalseo.com/tools/schema-markup-generator/)
       - [By Google](https://www.google.com/webmasters/markup-helper/)
       - [By jsonld.com](https://jsonld.com/json-ld-generator/)
+    - Rich Snippets Preview
+      - [By Google, in beta](https://search.google.com/test/rich-results)
   - Robots.txt
     - Validator
       - [By Google](https://www.google.com/webmasters/tools/robots-testing-tool)
       - [Tester by Techincal SEO](https://technicalseo.com/tools/robots-txt/)
     - [Robots Meta Directives by Moz](https://moz.com/learn/seo/robots-meta-directives)
-  - Rich Snippets Preview
-      - [By Google, in beta](https://search.google.com/test/rich-results)
   - Google, some tools are usable but not displayed in the search console by default
       - [Search Console](https://search.google.com/u/0/search-console/welcome)
       - [Remove outdated content](https://www.google.com/webmasters/tools/removals)
