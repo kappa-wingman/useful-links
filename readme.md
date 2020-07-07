@@ -27,14 +27,13 @@ Curated list of useful links, tools and resources
   - JSON-LD
     - Verification
       - [Visualisation of strucuted data by Classy Schema](https://classyschema.org/Visualisation) **- Recommended**
-      - [Structued Data Testing Tool by Google](https://search.google.com/structured-data/testing-tool/) **- Recommended**
+      - [Rich Results Test with Rich Snippet Preview](https://search.google.com/test/rich-results) **-Recommended, by Google**
+      - [Structued Data Testing Tool by Google](https://search.google.com/structured-data/testing-tool/) **- Replaced by Rich Results Test, this tool is going to be removed**
       - [Structured Data Linter](http://linter.structured-data.org) - HTTPS of this website does not work correctly, browser giving out warning about hostname problem 
     - Generator
       - [By Technical SEO](https://technicalseo.com/tools/schema-markup-generator/)
       - [By Google](https://www.google.com/webmasters/markup-helper/)
       - [By jsonld.com](https://jsonld.com/json-ld-generator/)
-    - Rich Snippets Preview
-      - [By Google, in beta](https://search.google.com/test/rich-results)
   - Robots.txt
     - Validator
       - [By Google](https://www.google.com/webmasters/tools/robots-testing-tool)
