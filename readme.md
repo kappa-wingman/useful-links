@@ -11,16 +11,21 @@ Curated list of useful links, tools and resources
     - Scanning
       - [Dareboost](https://www.dareboost.com) - Provides recommendation
       - [Nibbler](https://nibbler.silktide.com) - Provides recommendation, free version only scan maximum of five links automatically from your website
-      - [Immuniweb Community Free Security Tests](https://www.immuniweb.com/free/) - Free web/domain/SSL scan
-      - [Lighthouse Metrics](https://lighthouse-metrics.com) - Website that performs Goolge Lighthouse checking with version 6.0 and 5.6
+      - [Lighthouse Metrics](https://lighthouse-metrics.com) - Website that performs Google Lighthouse checking with version 6.0 and 5.6
       - [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
       - [Mobile friendly checking by Google](https://search.google.com/test/mobile-friendly)
-      - Scanning HTTP headers
-        - [Security Headers Sponsored by Report URI](https://securityheaders.com/)
-        - [Analyse CSP by report-uri](https://report-uri.com/home/analyse)
-        - [Redbot](https://redbot.org)
-      - Cookies
-        - [Webcookies](https://webcookies.org/) - Scan what cookies are used and give recommendation
+      - Security focused
+        - [Mozilla Observatory](https://observatory.mozilla.org/) - Combines several third party scanning tools and display it
+        - [Immuniweb Community Free Security Tests](https://www.immuniweb.com/free/) - Free web/domain/SSL scan
+        - [Sucuri](https://sitecheck.sucuri.net/)- Free website security check & malware scanner
+        - [Website and E-mail scanning](https://internet.nl/) - Initative of the Internet Community and the Dutch government
+        - Scanning HTTP headers and CSP
+          - [Security Headers Sponsored by Report URI](https://securityheaders.com/)
+          - [Analyse CSP by report-uri](https://report-uri.com/home/analyse)
+          - [CSP Evaluator by Google](https://csp-evaluator.withgoogle.com/)
+          - [Redbot](https://redbot.org)
+        - Cookies
+          - [Webcookies](https://webcookies.org/) - Scan what cookies are used and give recommendation
       - Find out what technology is used in a website
         - [Builtwith](https://builtwith.com/)
         - [W3techs](https://w3techs.com/sites)
