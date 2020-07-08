@@ -20,7 +20,7 @@ Curated list of useful links, tools and resources
         - [Sucuri](https://sitecheck.sucuri.net/)- Free website security check & malware scanner
         - [Website and E-mail scanning](https://internet.nl/) - Initative of the Internet Community and the Dutch government
         - Scanning HTTP headers and CSP
-          - [Webbkoll](https://webbkoll.dataskydd.net/) - Checking CSP with detail explanation about GDPR and settings. **Recommended**
+          - [Webbkoll](https://webbkoll.dataskydd.net/) - Checking CSP with detail explanation about GDPR and settings. Also support self-hosting. **Recommended**
           - [Security Headers Sponsored by Report URI](https://securityheaders.com/)
           - [Analyse CSP by report-uri](https://report-uri.com/home/analyse)
           - [CSP Evaluator by Google](https://csp-evaluator.withgoogle.com/)
