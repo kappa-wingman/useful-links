@@ -15,11 +15,12 @@ Curated list of useful links, tools and resources
       - [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
       - [Mobile friendly checking by Google](https://search.google.com/test/mobile-friendly)
       - Security focused
-        - [Mozilla Observatory](https://observatory.mozilla.org/) - Combines several third party scanning tools and display it
+        - [Mozilla Observatory](https://observatory.mozilla.org/) - Combines several third party scanning tools and display it **Recommended**
         - [Immuniweb Community Free Security Tests](https://www.immuniweb.com/free/) - Free web/domain/SSL scan
         - [Sucuri](https://sitecheck.sucuri.net/)- Free website security check & malware scanner
         - [Website and E-mail scanning](https://internet.nl/) - Initative of the Internet Community and the Dutch government
         - Scanning HTTP headers and CSP
+          - [Webbkoll](https://webbkoll.dataskydd.net/) - Checking CSP with detail explanation about GDPR and settings **Recommended**
           - [Security Headers Sponsored by Report URI](https://securityheaders.com/)
           - [Analyse CSP by report-uri](https://report-uri.com/home/analyse)
           - [CSP Evaluator by Google](https://csp-evaluator.withgoogle.com/)
