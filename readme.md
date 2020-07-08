@@ -15,7 +15,7 @@ Curated list of useful links, tools and resources
       - [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
       - [Mobile friendly checking by Google](https://search.google.com/test/mobile-friendly)
       - Security focused
-        - [Mozilla Observatory](https://observatory.mozilla.org/) - Combines several third party scanning tools and display it **Recommended**
+        - [Mozilla Observatory](https://observatory.mozilla.org/) - Combines several third party scanning tools and display it. **Recommended**
         - [Immuniweb Community Free Security Tests](https://www.immuniweb.com/free/) - Free web/domain/SSL scan
         - [Sucuri](https://sitecheck.sucuri.net/)- Free website security check & malware scanner
         - [Website and E-mail scanning](https://internet.nl/) - Initative of the Internet Community and the Dutch government
