@@ -13,7 +13,7 @@ Curated list of useful links, tools and resources
       - [Nibbler](https://nibbler.silktide.com) - Provides recommendation, free version only scan maximum of five links automatically from your website
       - [Immuniweb Community Free Security Tests](https://www.immuniweb.com/free/) - Free web/domain/SSL scan
       - [Lighthouse Metrics](https://lighthouse-metrics.com) - Website that performs Goolge Lighthouse checking with version 6.0 and 5.6
-      - [Google Pagespeed](https://developers.google.com/speed/pagespeed/insights/)
+      - [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
       - [Mobile friendly checking by Google](https://search.google.com/test/mobile-friendly)
       - Scanning HTTP headers
         - [Security Headers Sponsored by Report URI](https://securityheaders.com/)
@@ -27,7 +27,7 @@ Curated list of useful links, tools and resources
   - JSON-LD
     - Verification
       - [Visualisation of strucuted data by Classy Schema](https://classyschema.org/Visualisation) **- Recommended**
-      - [Rich Results Test with Rich Snippet Preview](https://search.google.com/test/rich-results) **-Recommended, by Google**
+      - [Rich Results Test with Rich Snippet Preview](https://search.google.com/test/rich-results) **- Recommended, by Google**
       - [Structued Data Testing Tool by Google](https://search.google.com/structured-data/testing-tool/) **- Replaced by Rich Results Test, this tool is going to be removed**
       - [Structured Data Linter](http://linter.structured-data.org) - HTTPS of this website does not work correctly, browser giving out warning about hostname problem 
     - Generator
