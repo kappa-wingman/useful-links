@@ -16,6 +16,7 @@ Web development
     - [Lighthouse Metrics](https://lighthouse-metrics.com) - Website that performs Google Lighthouse checking with version 6.0 and 5.6
     - [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
     - [Mobile friendly checking by Google](https://search.google.com/test/mobile-friendly)
+    - [A project using Server-Daten](https://check-your-website.server-daten.de) **Scan and check a LOT of things including HTTPS, cookies, CSP, DNS, port checking and etc. It would took minutes. Use carefully.**
     - Security focused
       - [Mozilla Observatory](https://observatory.mozilla.org/) - Combines several third party scanning tools and display it. **Recommended**
       - [Immuniweb Community Free Security Tests](https://www.immuniweb.com/free/) - Free web/domain/SSL scan
