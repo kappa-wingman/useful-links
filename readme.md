@@ -28,6 +28,7 @@ Web development
       - [Analyse CSP by report-uri](https://report-uri.com/home/analyse)
       - [CSP Evaluator by Google](https://csp-evaluator.withgoogle.com/)
       - [Redbot](https://redbot.org)
+      - [Gift of Speed](https://www.giftofspeed.com/cache-checker/) - Display a list about the maximum cache age of the webpage, also have other tools in that website
     - Cookies
       - [Webcookies](https://webcookies.org/) - Scan what cookies are used and give recommendation
     - Find out what technology is used in a website
