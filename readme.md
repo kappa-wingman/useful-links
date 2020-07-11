@@ -5,6 +5,8 @@ Web development
 ---------------
 
 - Website performance, SEO and security (online tools)
+  - [WebPageTest](https://www.webpagetest.org) - Their waterfall graph and connection graph is useful for 
+optimizing your loading speed
   - [Techinical SEO](https://technicalseo.com/tools) - This site has several tools for SEO
   - [Freeformatter](https://www.freeformatter.com/) - This site has formatters, validators, encoders, decoders minifiers and converters
   - [KeyCDN](https://tools.keycdn.com/) - Several tools provided, website speed test and other network tools
