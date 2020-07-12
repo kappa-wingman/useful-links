@@ -59,6 +59,8 @@ optimizing your loading speed
     - [Search Console](https://search.google.com/u/0/search-console/welcome)
     - [Remove outdated content](https://www.google.com/webmasters/tools/removals)
     - [URL parameters](https://www.google.com/webmasters/tools/crawl-url-parameters)
+- PWA
+  - [PWABuilder](https://www.pwabuilder.com)
 - HTML
   - Validator
     - [W3C Markup Validation Service](https://validator.w3.org/) - An online tool
