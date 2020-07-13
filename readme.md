@@ -55,6 +55,8 @@ optimizing your loading speed
   - Security and Error reporting
     - [Sentry](https://sentry.io/) - Have free plan suitable for dev or small website. Also support self hosting but not reselling it (BSL license)
     - [Report-URI](https://report-uri.com/) - Have free plan suitable for dev or small website
+- Page preview
+    - [Metatags.io](https://metatags.io/) - Preview how a webpage look like in Google Search, Facebook, Twitter, Linkedin, Pinterest and Slack
 - Google, some tools are usable but not displayed in the search console by default
     - [Search Console](https://search.google.com/u/0/search-console/welcome)
     - [Remove outdated content](https://www.google.com/webmasters/tools/removals)
