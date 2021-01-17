@@ -79,8 +79,9 @@ DNS
 - Online tools
   - Check DNS record from a specific DNS
     - [Network-tools.com](https://network-tools.com/nslookup/)
-  - DNSSEC
+  - Troubleshooting DNSSEC
     - [DNSSEC Analyzer by Versign Labs](https://dnssec-debugger.verisignlabs.com/)
+    - [DNSViz](https://dnsviz.net/)
 
 - Flushing DNS cache of some vendors
   - [Cloudflare](https://1.1.1.1/purge-cache/)
