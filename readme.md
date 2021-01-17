@@ -72,3 +72,10 @@ optimizing your loading speed
    - [Codepen](https://codepen.io/)
    - [JSFiddle](https://jsfiddle.net/)
    - [CodeSandBox](https://codesandbox.io/)
+
+DNS
+---
+
+- Flushing DNS cache of some vendors
+  - [Cloudflare](https://1.1.1.1/purge-cache/)
+  - [Google](https://developers.google.com/speed/public-dns/cache)
