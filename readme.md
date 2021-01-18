@@ -82,6 +82,6 @@ DNS
   - Troubleshooting DNSSEC
     - [DNSSEC Analyzer by Versign Labs](https://dnssec-debugger.verisignlabs.com/)
     - [DNSViz](https://dnsviz.net/)
-- Flushing DNS cache of some vendors
+- Flushing public DNS cache of some vendors
   - [Cloudflare](https://1.1.1.1/purge-cache/)
   - [Google](https://developers.google.com/speed/public-dns/cache)
