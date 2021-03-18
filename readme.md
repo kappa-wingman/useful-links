@@ -20,7 +20,7 @@ optimizing your loading speed
     - [Mobile friendly checking by Google](https://search.google.com/test/mobile-friendly)
     - [A project using Server-Daten](https://check-your-website.server-daten.de) **Scan and check a LOT of things including HTTPS, cookies, CSP, DNS, port checking and etc. It would took minutes. Use with caution**
     - HTTP/3
-      - [HTTP3check.net](https://http3check.net) - Check if a website support HTTP/3
+      - [HTTP3check.net by LiteSpeed Tech](https://http3check.net) - Check if a website support HTTP/3
       - [Check if your browser support HTTP/3](https://cloudflare-quic.com/) - By Cloudflare
     - Security focused
       - [Mozilla Observatory](https://observatory.mozilla.org/) - Combines several third party scanning tools and display it. **Recommended**
