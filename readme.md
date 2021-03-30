@@ -1,6 +1,9 @@
 # useful-links
 Curated list of useful links, tools and resources for Web development and DNS
 
+You can also view it in [my website](https://www.kappawingman.com/useful-links/).
+It is another way for presenting the information.
+
 Web development
 ---------------
 
