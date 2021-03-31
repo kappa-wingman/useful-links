@@ -21,6 +21,11 @@ Cloud Computing and Cloud-native
     - [IBM Cloud Status Dashboard](https://cloud.ibm.com/status)
   - Oracle Cloud
     - [OCI Status Dashboard](https://ocistatus.oraclecloud.com)
+- CI/CD
+  - CI/CD Service providers
+    - [GitHub Status](https://www.githubstatus.com)
+    - [GitLab System Status](https://status.gitlab.com)
+    - [CircleCI Status](https://status.circleci.com)
 - Service Mesh
   - [Comparsion of service meshes by InnoQ](https://servicemesh.es/)
 
