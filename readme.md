@@ -4,6 +4,26 @@ Curated list of useful links, tools and resources for Web development and DNS
 You can also view it in [my website](https://www.kappawingman.com/useful-links/).
 It is another way for presenting the information.
 
+Cloud Computing and Cloud-native
+--------------------------------
+
+- Cloud service providers
+  - AWS
+    - [AWS Service Health Dashboard](https://status.aws.amazon.com)
+    - [Personal Health Dashboard](https://phd.aws.amazon.com)
+  - Azure
+    - [Azure Service Health Dashboard](https://status.azure.com)
+  - GCP
+    - [Google Cloud Status Dashboard](https://status.cloud.google.com)
+  - Cloudflare
+    - [Cloudflare System Status](https://www.cloudflarestatus.com)
+  - IBM Cloud
+    - [IBM Cloud Status Dashboard](https://cloud.ibm.com/status)
+  - Oracle Cloud
+    - [OCI Status Dashboard](https://ocistatus.oraclecloud.com)
+- Service Mesh
+  - [Comparsion of service meshes by InnoQ](https://servicemesh.es/)
+
 Web development
 ---------------
 
@@ -81,11 +101,6 @@ optimizing your loading speed
 - Web PKI
   - Certificate Transparency
     - [Check CT database By Google](https://transparencyreport.google.com/https/certificates) - Online tool
-
-Service Mesh
-------------
-
-- [Comparsion of service meshes by InnoQ](https://servicemesh.es/)
 
 DNS
 ---
