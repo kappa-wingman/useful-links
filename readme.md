@@ -12,7 +12,8 @@ Cloud Computing and Cloud-native
     - [AWS Service Health Dashboard](https://status.aws.amazon.com)
     - [Personal Health Dashboard](https://phd.aws.amazon.com)
   - Azure
-    - [Azure Service Health Dashboard](https://status.azure.com)
+    - [Azure Service Health Dashboard, Primary](https://status.azure.com)
+    - [Azure Service Health Dashboard, Secondary](https://status2.azure.com)
   - GCP
     - [Google Cloud Status Dashboard](https://status.cloud.google.com)
   - Cloudflare
