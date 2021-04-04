@@ -66,7 +66,7 @@ optimizing your loading speed
       - [Test CORS](https://www.test-cors.org) - You should open browser developer tools when testing against an URL for CORS
     - Cookies
       - [Webcookies](https://webcookies.org/) - Scan what cookies are used and give recommendation
-    - Find out what technology is used in a website
+    - Find out what technologies are used in a website
       - [Builtwith](https://builtwith.com/)
       - [W3techs](https://w3techs.com/sites)
 - JSON-LD
