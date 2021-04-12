@@ -120,7 +120,8 @@ DNS
     - [DNSSEC Analyzer by Versign Labs](https://dnssec-debugger.verisignlabs.com/)
     - [DNSViz](https://dnsviz.net/)
   - WHOIS
-    - [ICANN whois](https://lookup.icann.org/lookup)
+    - [ICANN Whois](https://lookup.icann.org/lookup)
+    - [Versign Whois](https://www.verisign.com/en_GB/domain-names/whois/index.xhtml?loc=en_GB) - Cloudflare said ICANN is cached and may have delay. But this Whois server does not support all TLD)
 - Flushing public DNS cache of some vendors
   - [Cloudflare](https://1.1.1.1/purge-cache/)
   - [Google](https://developers.google.com/speed/public-dns/cache)
