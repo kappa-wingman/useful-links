@@ -28,7 +28,7 @@ Cloud Computing and Cloud-native
     - [GitLab System Status](https://status.gitlab.com)
     - [CircleCI Status](https://status.circleci.com)
 - Service Mesh
-  - [Comparsion of service meshes by InnoQ](https://servicemesh.es/)
+  - [Comparison of service meshes by InnoQ](https://servicemesh.es/)
 
 Web development
 ---------------
@@ -114,7 +114,7 @@ DNS
 ---
 
 - Online tools
-  - Check DNS record from a specific DNS
+  - Check DNS records from a specific DNS
     - [Network-tools.com](https://network-tools.com/nslookup/)
   - Troubleshooting DNSSEC
     - [DNSSEC Analyzer by Versign Labs](https://dnssec-debugger.verisignlabs.com/)
