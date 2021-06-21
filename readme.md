@@ -51,6 +51,8 @@ optimizing your loading speed
     - HTTP/3
       - [HTTP3check.net by LiteSpeed Tech](https://http3check.net) - Check if a website support HTTP/3
       - [Check if your browser support HTTP/3](https://cloudflare-quic.com/) - By Cloudflare
+    - Cloudflare
+      - [Check your browser connection to Cloudflare](https://www.cloudflare.com/cdn-cgi/trace) - Display your IP, WARP status and etc.
     - Security focused
       - [Mozilla Observatory](https://observatory.mozilla.org/) - Combines several third party scanning tools and display it. **Recommended**
       - [Immuniweb Community Free Security Tests](https://www.immuniweb.com/free/) - Free web/domain/SSL scan
@@ -121,7 +123,7 @@ DNS
     - [DNSViz](https://dnsviz.net/)
   - WHOIS
     - [ICANN Whois](https://lookup.icann.org/lookup)
-    - [Versign Whois](https://www.verisign.com/en_GB/domain-names/whois/index.xhtml?loc=en_GB) - Cloudflare said ICANN is cached and may have delay, and Versign should be used instead. But this Whois server does not support all TLD
+    - [Versign Whois](https://www.verisign.com/en_GB/domain-names/whois/index.xhtml?loc=en_GB) - Cloudflare said ICANN is cached and may have delay, and Versign should be used instead. But this Whois server does not support all TLDs
 - Flushing public DNS cache of some vendors
   - [Cloudflare](https://1.1.1.1/purge-cache/)
   - [Google](https://developers.google.com/speed/public-dns/cache)
