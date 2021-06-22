@@ -111,6 +111,7 @@ optimizing your loading speed
 - Web PKI
   - Certificate Transparency
     - [Check CT database By Google](https://transparencyreport.google.com/https/certificates) - Online tool
+    - [Censys.io](https://search.censys.io) - Online tool for checking hostname or certificates history
 
 DNS
 ---
