@@ -22,6 +22,8 @@ Cloud Computing and Cloud-native
     - [IBM Cloud Status Dashboard](https://cloud.ibm.com/status)
   - Oracle Cloud
     - [OCI Status Dashboard](https://ocistatus.oraclecloud.com)
+  - Akami
+    - [Akami System Status](https://edgedns.status.akamai.com)
 - CI/CD
   - CI/CD Service providers
     - [GitHub Status](https://www.githubstatus.com)
