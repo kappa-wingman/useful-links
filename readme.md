@@ -115,6 +115,7 @@ optimizing your loading speed
     - [Check CT database By Google](https://transparencyreport.google.com/https/certificates) - Online tool
     - [Censys.io](https://search.censys.io) - Online tool for checking hostname or certificates history
     - [Online utility to check if the web server is returning correct certificate chains](https://www.digicert.com/help/) - By DigiCert
+  - [Check the TLS settings supported by your browser by SSLLabs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
 
 DNS
 ---
