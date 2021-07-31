@@ -105,6 +105,7 @@ optimizing your loading speed
   - Validator
     - [W3C Markup Validation Service](https://validator.w3.org/) - An online tool
     - [html5validator, written in Python](https://github.com/svenkreiss/html5validator) - Command line tool
+    - [CSS Validator](https://jigsaw.w3.org/css-validator/) - An online tool
   - [Can I Use](https://caniuse.com/) - Browser support table for modern web technologies
  - Front-end playground for testing code or demo
    - [Codepen](https://codepen.io/)
