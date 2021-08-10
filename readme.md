@@ -78,7 +78,7 @@ optimizing your loading speed
   - Verification
     - [Visualisation of strucuted data by Classy Schema](https://classyschema.org/Visualisation) **- Recommended**
     - [Rich Results Test with Rich Snippet Preview](https://search.google.com/test/rich-results) **- Recommended, by Google**
-    - [Structued Data Testing Tool by Google](https://search.google.com/structured-data/testing-tool/) **- Replaced by Rich results Test, this tool is going to be removed**
+    - [Schema Validator](https://validator.schema.org/) - Replaced an old Google online tool
     - [Structured Data Linter](http://linter.structured-data.org) - HTTPS of this website does not work correctly, browser giving out warning about hostname problem 
   - Generator
     - [By Technical SEO](https://technicalseo.com/tools/schema-markup-generator/)
