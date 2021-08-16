@@ -111,6 +111,12 @@ optimizing your loading speed
    - [Codepen](https://codepen.io/)
    - [JSFiddle](https://jsfiddle.net/)
    - [CodeSandBox](https://codesandbox.io/)
+- CDN
+  - [jsDelivr](https://www.jsdelivr.com/)
+  - [cdnjs](https://cdnjs.com/)
+  - [Skypack](https://www.skypack.dev/)
+  - [Unpkg](https://unpkg.com/)
+  - [esm.sh](https://esm.sh/)
 - Web PKI
   - Certificate Transparency
     - [Check CT database By Google](https://transparencyreport.google.com/https/certificates) - Online tool
