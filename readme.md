@@ -115,8 +115,8 @@ optimizing your loading speed
   - [jsDelivr](https://www.jsdelivr.com/)
   - [cdnjs](https://cdnjs.com/)
   - [Skypack](https://www.skypack.dev/)
-  - [Unpkg](https://unpkg.com/)
-  - [esm.sh](https://esm.sh/)
+  - [unpkg](https://unpkg.com/)
+  - [ESM.sh](https://esm.sh/)
 - Web PKI
   - Certificate Transparency
     - [Check CT database By Google](https://transparencyreport.google.com/https/certificates) - Online tool
