@@ -97,7 +97,8 @@ optimizing your loading speed
     - [Metatags.io](https://metatags.io/) - Preview how a webpage look like in Google Search, Facebook, Twitter, Linkedin, Pinterest and Slack
 - Google, some tools are usable but not displayed in the search console by default
     - [Search Console](https://search.google.com/u/0/search-console/welcome)
-    - [Remove outdated content](https://www.google.com/webmasters/tools/removals)
+    - [Remove outdated content (owner)](https://www.google.com/webmasters/tools/removals)
+    - [Remove outdated content (non-owner)](https://search.google.com/search-console/remove-outdated-content)
     - [URL parameters](https://www.google.com/webmasters/tools/crawl-url-parameters)
 - PWA
   - [PWABuilder](https://www.pwabuilder.com)
