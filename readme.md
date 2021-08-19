@@ -46,7 +46,7 @@ optimizing your loading speed
   - Scanning
     - [Dareboost](https://www.dareboost.com) - Provides recommendation
     - [Nibbler](https://nibbler.silktide.com) - Provides recommendation, free version only scan maximum of five links automatically from your website
-    - [Lighthouse Metrics](https://lighthouse-metrics.com) - Website that performs Google Lighthouse checking with version 6.0 and 5.6
+    - [Lighthouse Metrics](https://lighthouse-metrics.com) - Website that performs Google Lighthouse checking in browser
     - [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
     - [Mobile friendly checking by Google](https://search.google.com/test/mobile-friendly)
     - [A project using Server-Daten](https://check-your-website.server-daten.de) **Scan and check a LOT of things including HTTPS, cookies, CSP, DNS, port checking and etc. It would took minutes. Use with caution**
