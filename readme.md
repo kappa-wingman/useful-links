@@ -124,6 +124,8 @@ optimizing your loading speed
     - [Censys.io](https://search.censys.io) - Online tool for checking hostname or certificates history
     - [Online utility to check if the web server is returning correct certificate chains](https://www.digicert.com/help/) - By DigiCert
   - [Check the TLS settings supported by your browser by SSLLabs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
+- JavaScript
+  - [Browser support matrix of ES6+](https://kangax.github.io/compat-table/es2016plus/)
 
 DNS
 ---
