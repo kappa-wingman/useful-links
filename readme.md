@@ -60,6 +60,8 @@ optimizing your loading speed
       - [Immuniweb Community Free Security Tests](https://www.immuniweb.com/free/) - Free web/domain/SSL scan
       - [Sucuri](https://sitecheck.sucuri.net/) - Free website security check & malware scanner
       - [Website and E-mail scanning](https://internet.nl/) - Initative of the Internet Community and the Dutch government
+      - [Check if your browser has enabled GPC (Global Privacy Control)](https://globalprivacycontrol.org/)
+      - [Check if your Chrome browser is FLOCED](https://amifloced.org/)
     - Scanning HTTP headers and CSP
       - [Webbkoll](https://webbkoll.dataskydd.net/en) - Checking CSP with detail explanation about GDPR and settings. Also support self-hosting. **Recommended**
       - [Security Headers Sponsored by Report URI](https://securityheaders.com/)
@@ -68,8 +70,6 @@ optimizing your loading speed
       - [Redbot](https://redbot.org)
       - [Gift of Speed](https://www.giftofspeed.com/cache-checker/) - Display a list about the maximum cache age of the webpage, also have other tools in that website
       - [Test CORS](https://www.test-cors.org) - You should open browser developer tools when testing against an URL for CORS
-      - [Check if your browser has enabled GPC (Global Privacy Control)](https://globalprivacycontrol.org/)
-      - [Check if your Chrome browser is FLOCED](https://amifloced.org/)
     - Cookies
       - [Webcookies](https://webcookies.org/) - Scan what cookies are used and give recommendation
     - Find out what technologies are used in a website
