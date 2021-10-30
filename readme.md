@@ -68,6 +68,7 @@ optimizing your loading speed
       - [Redbot](https://redbot.org)
       - [Gift of Speed](https://www.giftofspeed.com/cache-checker/) - Display a list about the maximum cache age of the webpage, also have other tools in that website
       - [Test CORS](https://www.test-cors.org) - You should open browser developer tools when testing against an URL for CORS
+      - [Check if your browser has enabled GPC (Global Privacy Control)](https://globalprivacycontrol.org/)
       - [Check if your Chrome browser is FLOCED](https://amifloced.org/)
     - Cookies
       - [Webcookies](https://webcookies.org/) - Scan what cookies are used and give recommendation
