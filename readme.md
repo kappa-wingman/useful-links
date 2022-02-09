@@ -71,7 +71,7 @@ optimizing your loading speed
       - [Gift of Speed](https://www.giftofspeed.com/cache-checker/) - Display a list about the maximum cache age of the webpage, also have other tools in that website
       - [Test CORS](https://www.test-cors.org) - You should open browser developer tools when testing against an URL for CORS
     - Cookies
-      - [Webcookies](https://webcookies.org/) - Scan what cookies are used and give recommendation **site is down**
+      - [Webcookies (**site is down**)](https://webcookies.org/) - Scan what cookies are used and give recommendation
     - Find out what technologies are used in a website
       - [Builtwith](https://builtwith.com/)
       - [W3techs](https://w3techs.com/sites)
